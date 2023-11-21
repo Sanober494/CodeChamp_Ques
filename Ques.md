@@ -1,5 +1,4 @@
 
-
 #### **Dynamic Palindrome Partitioning:**
 
 **Challenge: Dynamic Palindrome Partitioning**
